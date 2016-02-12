@@ -1,2 +1,2 @@
 # kphp
-The PHP Project 
+The KPHP Project 
